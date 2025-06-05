@@ -19,3 +19,10 @@ exposure to the AI tools i use, understand my AI-assisted workflow, state of the
 none i know of. Company is urging everyone to adopt AI tools, and just issued $2000 yearly stipend for AI-related upskilling. Maybe add this point in the demo slide to make it relevant
 I think we could create a README style document to showcase the workflow with screenshots of each step along the way as artifact and help guide audience journey and exploration. This could also be a slide deck. Or a simple local web app that allow us to generate/manage slides programatically (via vibecoding of course) and just slide through for demo, if that make sense
 8.assume familarity with basic AI concepts. Note that there are so many AI news and releases daily as of now June 2025, this demo should help establish a path to use of AI tools and help audience know the key developments and strengths and limitation of AI tools and cut through the noise and hype.
+
+
+## Review and revise PRD
+![alt text](image-1.png)
+
+- Tip: Use Copilot Edit mode: carefully review before `Keep` edits; Spam `git push` for version control
+![alt text](image-2.png)
