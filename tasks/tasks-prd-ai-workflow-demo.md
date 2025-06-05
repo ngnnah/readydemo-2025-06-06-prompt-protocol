@@ -4,14 +4,10 @@
 
 - `/Users/nhat/repo-ready/demo-2025-06-06-prompt-protocol/slides/presentation.md` - Main presentation content in Markdown format
 - `/Users/nhat/repo-ready/demo-2025-06-06-prompt-protocol/slides/assets/` - Directory for images, screenshots, and visual assets
-- `/Users/nhat/repo-ready/demo-2025-06-06-prompt-protocol/code-examples/meta-prompting.xml` - Example XML system prompt structure
-- `/Users/nhat/repo-ready/demo-2025-06-06-prompt-protocol/code-examples/workflow-diagram.mmd` - MermaidJS diagram of the 3-step workflow
-- `/Users/nhat/repo-ready/demo-2025-06-06-prompt-protocol/resources/tools-by-department.md` - Categorized AI tools by department function
-- `/Users/nhat/repo-ready/demo-2025-06-06-prompt-protocol/resources/getting-started.md` - Quick-start guide for audience
-- `/Users/nhat/repo-ready/demo-2025-06-06-prompt-protocol/README.md` - Overview of the repo and presentation purpose
 - `/Users/nhat/repo-ready/demo-2025-06-06-prompt-protocol/prompts/prompt-gen.xml` - Example of XML system prompt format
 - `/Users/nhat/repo-ready/demo-2025-06-06-prompt-protocol/slides/marp.config.js` - Marp configuration for slide presentation
 - `/Users/nhat/repo-ready/demo-2025-06-06-prompt-protocol/slides/theme.css` - Custom CSS theme with Ready.net colors
+- `/Users/nhat/repo-ready/demo-2025-06-06-prompt-protocol/README.md` - Overview of the repo and presentation purpose
 
 ### Notes
 
@@ -45,9 +41,10 @@
     - [x] 2.3.1 Create example of basic prompt vs. XML structured prompt
     - [x] 2.3.2 Create example of prompt folding (iterative improvement)
     - [x] 2.3.3 Create example with escape hatches for error handling
-  - [ ] 2.4 Generate MermaidJS diagram of 3-step workflow process
-    - [ ] 2.4.1 Create diagram code in workflow-diagram.mmd
-    - [ ] 2.4.2 Render diagram to PNG for inclusion in slides
+  - [x] 2.4 Organize and rename screenshots for presentation
+    - [x] 2.4.1 Move screenshots to slides/assets directory
+    - [x] 2.4.2 Rename with descriptive filenames
+    - [x] 2.4.3 Update references in presentation.md
   - [x] 2.5 Collect tool screenshots and interface examples
     - [x] 2.5.1 VSCode Copilot/Edit mode interface
     - [x] 2.5.2 Google AI Studio with complex context
@@ -90,21 +87,11 @@
     - [x] 3.8.1 Draft 2-3 anticipated questions and answers
     - [x] 3.8.2 Create closing call-to-action
 
-- [ ] 4.0 Create Supporting Resources
-  - [ ] 4.1 Develop tools-by-department.md resource
-    - [ ] 4.1.1 List recommended AI tools for engineering teams
-    - [ ] 4.1.2 List recommended AI tools for product/design teams
-    - [ ] 4.1.3 List recommended AI tools for sales/marketing teams
-    - [ ] 4.1.4 List recommended AI tools for HR/operations teams
-  - [ ] 4.2 Create getting-started.md guide
-    - [ ] 4.2.1 Write introduction to AI tools workflow
-    - [ ] 4.2.2 Create step-by-step guide for trying the 3-step protocol
-    - [ ] 4.2.3 Provide links to all tools mentioned in presentation
-    - [ ] 4.2.4 Include tips for effective AI tool use
-  - [ ] 4.3 Update README.md with project overview
-    - [ ] 4.3.1 Explain purpose of the repository
-    - [ ] 4.3.2 Provide navigation guidance to resources
-    - [ ] 4.3.3 Include contact information for follow-up
+- [ ] 4.0 Create Essential Supporting Resources
+  - [ ] 4.1 Update README.md with project overview
+    - [ ] 4.1.1 Explain purpose of the repository
+    - [ ] 4.1.2 Provide navigation guidance to resources
+    - [ ] 4.1.3 Include contact information for follow-up
 
 - [ ] 5.0 Finalize Presentation and Prepare for Delivery
   - [x] 5.1 Assemble all slides in presentation.md
@@ -113,5 +100,3 @@
   - [ ] 5.4 Test presentation in Slack huddle environment
   - [ ] 5.5 Practice delivery to stay within 5-8 minute window
   - [ ] 5.6 Prepare contingency plan for technical issues
-  - [ ] 5.7 Set up system to collect follow-up interests
-  - [ ] 5.8 Create short survey to gather feedback after presentation
