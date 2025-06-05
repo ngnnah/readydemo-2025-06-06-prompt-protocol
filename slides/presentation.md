@@ -140,7 +140,7 @@ Providing clear answers resulted in a comprehensive PRD.
 
 ## Converting WIP Documentation to Presentation
 
-<img src="./assets/presentation-conversion-1.png" height="300"/>
+<img src="./assets/presentation-conversion.png" height="300"/>
 
 - Used the history.md tracking document as input
 - AI transformed it into a structured presentation
@@ -151,26 +151,16 @@ Providing clear answers resulted in a comprehensive PRD.
 ## Meta-Prompting Techniques
 
 - System prompt XML structure
-- Prompt folding (iterating on prompts)
-- Examples and escape hatches
-
-```xml
-<prompt>
-  <context>
-    Creating a presentation on AI workflows
-  </context>
-  <goal>
-    Design a slide deck that explains my AI tools usage
-  </goal>
-  <instructions>
-    Structure the presentation to show my 3-step workflow
-    Include screenshots of the process
-  </instructions>
-</prompt>
-```
 
 <!-- Note for Task 2.3.1: Reference to Claude project "prompt-generator" -->
 <!-- Instructions to audience: Just ask "Craft a prompt to ____, ask clarification for best prompt" -->
+<img src="./assets/prompt-gen.png" height="200"/>
+  
+  - Example: [data-team code-assist (many iterations!)](../prompting/system-prompts/datateam-coding-assistant-sys-prompt-v7.md)
+
+- Prompt folding (iterating on prompts)
+- Examples and escape hatches
+
 
 ---
 
