@@ -30,3 +30,6 @@ I think we could create a README style document to showcase the workflow with sc
 
 # Generate tasks
 ![alt text](image-3.png)
+
+## Review and revise tasks
+![alt text](image-4.png)
