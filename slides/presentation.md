@@ -184,12 +184,12 @@ Providing clear answers resulted in a comprehensive PRD.
 <img src="./assets/context-select/prompt-repo.png" height="350"/>
 
 ---
-## King of Context: Go Big with AI Studio →
+## 👑 King of Context: Go Big with AI Studio →
 
 <img src="./assets/context-select/ai-studio-context.png" height="350"/>
 
 ---
-## Context is Knowledge: Auto-gen OUTPUT; Build Our Knowledge Base!
+## 📚 Context is Knowledge: Auto-gen OUTPUT; Build Our Knowledge Base!
 <img src="./assets/context-select/docu-readme.png" height="350"/>
 
 ---
@@ -210,7 +210,7 @@ All following the same structured 3-step protocol
 - Linear requirements → schemas and diagrams:
     <img src="./assets/lucid/lucid-erd-import.png" height="250"/> <img src="./assets/lucid/lucid-mermaidjs.png" height="250"/>
 
-- → Coding agent
+- → Coding agent (w/ custom system prompt)
 
 ---
 
