@@ -218,10 +218,10 @@ Let AI help you talk to AI more effectively!
 
 ## ☁️ Example: Data Workflow / Calix Cloud Integration
 
-From Linear requirements → schemas & diagrams (via MermaidJS & Lucidchart):
+Linear requirements → schemas & diagrams (Lucidchart):
 <img src="./assets/lucid/lucid-erd-import.png" height="230"/> <img src="./assets/lucid/lucid-mermaidjs.png" height="230"/>
 
-→ Then handed to a coding agent (with a custom system prompt).
+→ PRD and personal coding agent
 
 ---
 
