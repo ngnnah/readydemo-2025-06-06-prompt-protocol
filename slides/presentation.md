@@ -35,6 +35,8 @@ June 2025
 
 > "You get out what you put in"
 
+<img src="./assets/quality-in-quality-out.png" height="200"/>
+
 ---
 
 ## How I Created This Presentation
@@ -45,6 +47,8 @@ The demo itself:
 2. Applied meta-prompting techniques
 3. Leveraged multiple AI tools for specific tasks
 4. Documented each step for you to see
+
+<img src="./assets/ai-companion.png" height="180"/>
 
 ---
 
@@ -165,6 +169,9 @@ Providing clear answers resulted in a comprehensive PRD.
 </prompt>
 ```
 
+<!-- Note for Task 2.3.1: Reference to Claude project "prompt-generator" -->
+<!-- Instructions to audience: Just ask "Craft a prompt to ____, ask clarification for best prompt" -->
+
 ---
 
 ## Tool Selection for Specific Tasks
@@ -183,11 +190,13 @@ Providing clear answers resulted in a comprehensive PRD.
 ## Real-World Applications
 
 - **This presentation**: Meta-example of the workflow
-- **Calix Cloud integration**: From requirements to diagrams
-- **Data workflows**: dbt/Spark optimization with AI assistance
-- **Documentation**: Auto-generating comprehensive guides
+- **Data workflow/Calix Cloud integration**: From Linear requirements to diagrams, to Software Architect-AI, to Coding-AI
+- **Documentation**: Generate comprehensive guides, with visuals
 
 All following the same structured 3-step protocol
+
+<!-- Note for Task 2.2.4: Insert "Vibe coding for serious adults" meme here -->
+<img src="./assets/vibe-coding.png" height="200"/>
 
 ---
 

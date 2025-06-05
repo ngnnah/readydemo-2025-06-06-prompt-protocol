@@ -24,34 +24,35 @@
   - [x] 1.2 Create basic template with Ready.net colors (Purple, Blue, Black)
   - [x] 1.3 Set up slide transitions and timing to fit 5-8 minute window
   - [x] 1.4 Design consistent visual layout with AI-related imagery
-  - [ ] 1.5 Create QR code linking to resources/repo for concluding slide
+  - [x] 1.5 Create concluding slide with contact information and repo URL
   - [x] 1.6 Set up presentation outline following the PRD content structure
   - [x] 1.7 Create title slide with presentation topic and presenter info
 
-- [x] 2.0 Gather and Create Content Assets
+- [x] 2.0 Gather and Create Content Assets and include in presentation.md
   - [x] 2.1 Capture screenshots of 3-step AI workflow process
     - [x] 2.1.1 Screenshot of PRD generation process
     - [x] 2.1.2 Screenshot of task list generation
     - [x] 2.1.3 Screenshot of task execution with AI assistance
   - [x] 2.2 Create/find AI-related memes and visuals for engagement
-    - [x] 2.2.1 Find "You get out what you put in" visual metaphor
-    - [x] 2.2.2 Find "AI as companion/assistant/mentor" imagery
-    - [x] 2.2.3 Find "Vibe coding for serious adults" meme
-  - [x] 2.3 Prepare before/after examples of meta-prompting techniques
-    - [x] 2.3.1 Create example of basic prompt vs. XML structured prompt
-    - [x] 2.3.2 Create example of prompt folding (iterative improvement)
-    - [x] 2.3.3 Create example with escape hatches for error handling
+    - [x] 2.2.1 Include "You get out what you put in" visual metaphor (placeholder added)
+    - [x] 2.2.2 Include visual to Introduce AI as companion/assistant/mentor concept (placeholder added)
+    - [x] 2.2.3 Include in slide "AI as companion/assistant/mentor" imagery (placeholder added)
+    - [x] 2.2.4 Find and include "Vibe coding for serious adults" meme (placeholder added)
+  - [x] 2.3 Prepare meta-prompting technique examples
+    - [x] 2.3.1 Refer to shared claude project `prompt-generator` with XML structured prompt (note added)
+    - [x] 2.3.2 Include prompt folding example (existing in XML example)
+    - [x] 2.3.3 Include escape hatches example (mentioned in slide content)
   - [x] 2.4 Organize and rename screenshots for presentation
     - [x] 2.4.1 Move screenshots to slides/assets directory
     - [x] 2.4.2 Rename with descriptive filenames
     - [x] 2.4.3 Update references in presentation.md
-  - [x] 2.5 Collect tool screenshots and interface examples
+  - [ ] 2.5 Collect tool screenshots and interface examples
     - [x] 2.5.1 VSCode Copilot/Edit mode interface
-    - [x] 2.5.2 Google AI Studio with complex context
-    - [x] 2.5.3 Claude Prompt Writer interface
-    - [x] 2.5.4 NotebookLM source discovery and synthesis
-    - [x] 2.5.5 Lucid Charts with MermaidJS diagram generation
-    - [x] 2.5.6 RepoPrompt context formatting
+    - [ ] 2.5.2 Include place-holder for Google AI Studio with LARGE and complex context
+    - [ ] 2.5.3 Include place-holder for Claude Prompt Writer `prompt-generator` interface
+    - [ ] 2.5.4 Include place-holder for NotebookLM source discovery and synthesis
+    - [ ] 2.5.5 Include place-holder for Lucid Charts with MermaidJS diagram generation. Will add screenshot later.
+    - [ ] 2.5.6 Include place-holder for RepoPrompt context formatting
 
 - [x] 3.0 Develop Presentation Content
   - [x] 3.1 Write introduction section (30 seconds)
@@ -84,8 +85,8 @@
   - [x] 3.7 Draft company stipend mention (15 seconds)
     - [x] 3.7.1 Create quick ROI calculation for AI tool adoption
   - [x] 3.8 Prepare Q&A/conclusion section (30 seconds)
-    - [x] 3.8.1 Draft 2-3 anticipated questions and answers
-    - [x] 3.8.2 Create closing call-to-action
+    - [x] 3.8.1 Draft anticipated questions and answers
+    - [x] 3.8.2 Create closing call-to-action with contact information
 
 - [ ] 4.0 Create Essential Supporting Resources
   - [ ] 4.1 Update README.md with project overview
