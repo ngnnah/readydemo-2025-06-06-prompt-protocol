@@ -36,7 +36,7 @@ This project demonstrates several key concepts for effective AI utilization:
 *   **Meta-Prompting:** Using AI to help craft, refine, and improve prompts for other AI interactions, leading to more precise outputs. This includes detailed system prompts, iterative refinement (prompt folding), providing examples, and defining fallback behaviors.
 *   **Model Context Protocols (MCPs):** Represented by the `.mdc` files, these are rule sets defining goals, processes, output formats, and interaction models for an AI assistant. They serve as comprehensive "meta-prompts" for specific, complex operations.
 
-## Core Workflow Components (Model Context Protocols)
+## Model Context Protocol (MCP): Manual Mode
 
 The `.mdc` files in the `/prompting` directory define the "rules of engagement" for the AI assistant:
 
