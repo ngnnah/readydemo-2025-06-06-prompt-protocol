@@ -26,3 +26,7 @@ I think we could create a README style document to showcase the workflow with sc
 
 - Tip: Use Copilot Edit mode: carefully review before `Keep` edits; Spam `git push` for version control
 ![alt text](image-2.png)
+
+
+# Generate tasks
+![alt text](image-3.png)

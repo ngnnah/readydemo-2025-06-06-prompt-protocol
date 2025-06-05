@@ -29,6 +29,7 @@ This document outlines the requirements for creating a 5-8 minute demonstration 
       - Position AI as companion/assistant/mentor, not just a tool
    
    2. Overview of the 3-step AI workflow protocol (1 minute)
+      - Author: https://github.com/snarktank/ai-dev-tasks
       - Generate PRD
       - PRD to tasks (stage-gate)
       - Execute tasks step-by-step
