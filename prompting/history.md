@@ -37,7 +37,8 @@ I think we could create a README style document to showcase the workflow with sc
 # AI-centric development: `Please start on task 1.1 and use @process-task-list.mdc`
 ![alt text](image-5.png)
 
-## Check and update task list!
+## Review, Approve, and Progress ✅
+- You'll see a satisfying list of completed items grow, providing a clear visual of your feature coming to life!
 ![alt text](image-6.png)
 
 
