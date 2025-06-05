@@ -179,7 +179,7 @@ Providing clear answers resulted in a comprehensive PRD.
 </div>
 
 ---
-## Context is Key: Smart INPUT via RepoPrompt →
+## 🥇 Context is Key: Smart INPUT via RepoPrompt →
 
 <img src="./assets/context-select/prompt-repo.png" height="350"/>
 
@@ -188,24 +188,30 @@ Providing clear answers resulted in a comprehensive PRD.
 
 <img src="./assets/context-select/ai-studio-context.png" height="350"/>
 
-
 ---
 ## Context is Knowledge: Auto-gen OUTPUT; Build Our Knowledge Base!
 <img src="./assets/context-select/docu-readme.png" height="350"/>
 
 ---
 
-
 ## Real-World Applications
 
 - **This presentation**: Meta-example of the workflow
 - **Data workflow/Calix Cloud integration**: From Linear requirements to diagrams, to Software Architect-AI, to Coding-AI
 - **Documentation**: Generate comprehensive guides, with visuals
-- Image generated with Gemini Canvas: 
-- [example](https://gemini.google.com/u/4/share/cb9103ca67d1)
+- Image generated with Gemini Canvas: [example](https://gemini.google.com/u/4/share/cb9103ca67d1)
     <img src="./assets/image-gen.png" height="300"/>
 
 All following the same structured 3-step protocol
+
+---
+
+## Data workflow/Calix Cloud integration
+- Linear requirements → schemas and diagrams:
+    <img src="./assets/lucid/lucid-erd-import.png" height="250"/> <img src="./assets/lucid/lucid-mermaidjs.png" height="250"/>
+
+- → Coding agent
+
 ---
 
 ## Best Practices for AI Tool Usage
