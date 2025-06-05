@@ -1,0 +1,94 @@
+/* Ready.net Theme for Marp */
+
+:root {
+  --readynet-purple: #6b46c1;
+  --readynet-blue: #2b6cb0;
+  --readynet-black: #1a202c;
+  --readynet-light: #f7fafc;
+  --readynet-gray: #718096;
+}
+
+/* Default slide styles */
+section {
+  background-color: var(--readynet-light);
+  color: var(--readynet-black);
+  font-family: 'Arial', sans-serif;
+  padding: 40px;
+}
+
+/* Header styles */
+h1 {
+  color: var(--readynet-purple);
+  font-size: 2.5em;
+  margin-bottom: 0.5em;
+}
+
+h2 {
+  color: var(--readynet-blue);
+  font-size: 1.8em;
+  margin-bottom: 0.5em;
+}
+
+h3 {
+  color: var(--readynet-black);
+  font-size: 1.4em;
+}
+
+/* List styles */
+ul, ol {
+  margin-left: 1em;
+  line-height: 1.6;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
+
+/* Code block styles */
+pre {
+  background-color: #f1f1f1;
+  border-radius: 5px;
+  padding: 0.5em;
+}
+
+/* Image styles */
+img {
+  max-height: 500px;
+  max-width: 80%;
+  object-fit: contain;
+}
+
+/* Quote styles */
+blockquote {
+  border-left: 5px solid var(--readynet-purple);
+  padding-left: 1em;
+  color: var(--readynet-gray);
+  font-style: italic;
+}
+
+/* Footer for all slides */
+section::after {
+  content: 'Ready.net - AI Tools Workflow Demo - June 2025';
+  font-size: 0.7em;
+  color: var(--readynet-gray);
+  position: absolute;
+  bottom: 20px;
+  right: 30px;
+}
+
+/* Title slide */
+section.title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+/* Title slide: logo positioning */
+section.title img.logo {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  height: 60px;
+}

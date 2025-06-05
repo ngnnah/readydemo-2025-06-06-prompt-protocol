@@ -10,6 +10,8 @@
 - `/Users/nhat/repo-ready/demo-2025-06-06-prompt-protocol/resources/getting-started.md` - Quick-start guide for audience
 - `/Users/nhat/repo-ready/demo-2025-06-06-prompt-protocol/README.md` - Overview of the repo and presentation purpose
 - `/Users/nhat/repo-ready/demo-2025-06-06-prompt-protocol/prompts/prompt-gen.xml` - Example of XML system prompt format
+- `/Users/nhat/repo-ready/demo-2025-06-06-prompt-protocol/slides/marp.config.js` - Marp configuration for slide presentation
+- `/Users/nhat/repo-ready/demo-2025-06-06-prompt-protocol/slides/theme.css` - Custom CSS theme with Ready.net colors
 
 ### Notes
 
@@ -22,7 +24,7 @@
 ## Tasks
 
 - [ ] 1.0 Define Presentation Structure and Format
-  - [ ] 1.1 Select presentation format (slide deck using Marp or reveal.js)
+  - [x] 1.1 Select presentation format (slide deck using Marp)
   - [ ] 1.2 Create basic template with Ready.net colors (Purple, Blue, Black)
   - [ ] 1.3 Set up slide transitions and timing to fit 5-8 minute window
   - [ ] 1.4 Design consistent visual layout with AI-related imagery

@@ -28,8 +28,18 @@ I think we could create a README style document to showcase the workflow with sc
 ![alt text](image-2.png)
 
 
-# Generate tasks
+# Generate tasks (stage-gate)
 ![alt text](image-3.png)
 
 ## Review and revise tasks
 ![alt text](image-4.png)
+
+# AI-centric development: `Please start on task 1.1 and use @process-task-list.mdc`
+![alt text](image-5.png)
+
+## Check and update task list!
+![alt text](image-6.png)
+
+
+## What is Marp? 
+![alt text](image-7.png)
