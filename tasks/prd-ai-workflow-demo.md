@@ -51,8 +51,8 @@ This document outlines the requirements for creating a 5-8 minute demonstration 
 
 3. **Visual Elements**:
    1. Screenshots of each step in the workflow
-   2. Before/after examples showing improvement with better prompting
-   3. Simple diagrams illustrating the 3-step workflow
+   2. (Before: Optional, everyone should know what it likes to work without AI) After examples showing improvement with better prompting
+   3. Simple LLM-generated diagrams-as-code illustrating the 3-step workflow
    4. Examples of generated artifacts (diagrams, code, documents)
 
 4. **Demo Flow**:
@@ -63,10 +63,9 @@ This document outlines the requirements for creating a 5-8 minute demonstration 
 
 5. **Key Messaging Points**:
    1. AI as a companion/assistant/mentor, not just a tool
-   2. "You get out what you put in" - importance of proper prompting
-   3. Structure leads to better results - less guesswork, better outputs
+   2. "You get out what you put in" - importance of proper prompting, meta-prompting techniques
+   3. Structure leads to better results - less guesswork, better outputs. Embrace: Vibe coding for serious adults.
    4. Using the right tool for the right job
-   5. The importance of evaluation in AI workflows
 
 ## Non-Goals (Out of Scope)
 1. Deep technical explanations of how AI models work
@@ -78,17 +77,17 @@ This document outlines the requirements for creating a 5-8 minute demonstration 
 
 ## Design Considerations
 1. Keep slides visually simple with minimal text
-2. Use a consistent visual structure throughout
+2. Use a consistent visual structure throughout. Add emoji or AI/LLM/chatbot related emojis and memes and non-technical diagrams where appropriate.
 3. Incorporate screenshots and visual examples
-4. Consider using a simple color scheme that matches company branding
+4. Consider using a simple color scheme (Purple, Blue, Black) that matches company branding (visit Ready.net for visual theme)
 5. If using a web app for presentation, ensure it has simple navigation controls
 
 ## Technical Considerations
 1. Prepare all screenshots and examples in advance to avoid live demo risks
 2. If creating a web-based presentation, use simple HTML/CSS/JS for reliability
 3. Consider having backup examples ready in case of questions
-4. Ensure all links and resources are accessible on the presentation device
-5. Test the presentation flow on the actual equipment that will be used
+4. Ensure all links and resources are included in this github repo or accessible on this local laptop
+5. Test the presentation flow on this local laptop that will be used
 
 ## Success Metrics
 1. Audience engagement during the presentation (questions, note-taking)
@@ -97,11 +96,18 @@ This document outlines the requirements for creating a 5-8 minute demonstration 
 4. Requests for follow-up sessions or more detailed information
 5. Positive feedback from management on practical applicability
 
-## Open Questions
+## Open Questions and My Answers
 1. Should specific company projects or use cases be highlighted in the presentation?
+   1. skip this to keep prepration effort low
 2. What is the technical setup for the online presentation (platform, screen sharing capabilities)?
+   1. I will just share my laptop screen in our demo company-wide Slack huddle
 3. Will there be time for a Q&A session after the presentation?
+   1. Yes 1 minute
 4. Should handout materials be provided for reference after the presentation?
+   1. I can share slide deck and this repo
 5. Is there interest in follow-up sessions on specific aspects of AI tool usage?
+   1. Probably, i will ask audience if they want any
 6. What are the primary pain points or workflow challenges that audience members currently face?
+   1. Overwhelmed by AI hype, many tools, many updates. audience members include software engineers, products, DRI, sales, public-relationship, HR, designers... so each group has to face many different/overlapping challenges, and different/overlapping sets of AI tools to ignore, explore and adopt
 7. Are there specific productivity metrics the company is trying to improve?
+   1. Annual Revenue per employee. AI adoption. Keep headcount lean while building more awesome features and products and ship faster.
