@@ -42,6 +42,17 @@ Create a screenshot or example image showing the Claude Prompt Writer interface 
 
 **Save as:** `./assets/claude-prompt-writer.png`
 
+## 5. "Evolving Tools, Stable Process" Visual
+Create or find an image that illustrates how tools evolve but the fundamental workflow remains valuable.
+
+**Ideas:**
+- A tree with deep roots (the workflow/process) and changing leaves/branches (the tools)
+- A foundation/structure with interchangeable components on top
+- A timeline showing evolving tools but consistent workflow structure
+- Workbench with different tools but same blueprint/plans
+
+**Save as:** `./assets/evolving-tools.png`
+
 ## Creating These Assets
 
 You can create these assets using:
