@@ -35,7 +35,7 @@ June 2025
 
 > "You get out what you put in"
 
-<img src="./assets/quality-in-quality-out.png" height="200"/>
+<img src="./assets/quality-in-quality-out.png" height="300"/>
 
 ---
 
@@ -48,7 +48,7 @@ The demo itself:
 3. Leveraged multiple AI tools for specific tasks
 4. Documented each step for you to see
 
-<img src="./assets/ai-companion.png" height="180"/>
+<img src="./assets/ai-companion.png" height="250"/>
 
 ---
 
@@ -192,12 +192,11 @@ Providing clear answers resulted in a comprehensive PRD.
 - **This presentation**: Meta-example of the workflow
 - **Data workflow/Calix Cloud integration**: From Linear requirements to diagrams, to Software Architect-AI, to Coding-AI
 - **Documentation**: Generate comprehensive guides, with visuals
+- Image generated with Gemini Canvas: 
+- [example](https://gemini.google.com/u/4/share/cb9103ca67d1)
+    <img src="./assets/image-gen.png" height="300"/>
 
 All following the same structured 3-step protocol
-
-<!-- Note for Task 2.2.4: Insert "Vibe coding for serious adults" meme here -->
-<img src="./assets/vibe-coding.png" height="200"/>
-
 ---
 
 ## Best Practices for AI Tool Usage
