@@ -50,7 +50,6 @@
     - [x] 2.5.1 VSCode Copilot/Edit mode interface
     - [ ] 2.5.2 Include place-holder for Google AI Studio with LARGE and complex context
     - [x] 2.5.3 Include place-holder for Claude Prompt Writer `prompt-generator` interface
-    - [ ] 2.5.4 Include place-holder for NotebookLM source discovery and synthesis
     - [ ] 2.5.5 Include place-holder for Lucid Charts with MermaidJS diagram generation. Will add screenshot later.
     - [ ] 2.5.6 Include place-holder for RepoPrompt context formatting
 
