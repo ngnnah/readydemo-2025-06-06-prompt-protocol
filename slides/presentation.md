@@ -223,7 +223,7 @@ All following the same structured 3-step protocol
 
 <!-- _class: title -->
 
-# Q&A +x+x Thank You!
+# Q&A +x Thank You!
 
 - Slides and details: github.com/ngnnah/readydemo-2025-06-06-prompt-protocol/
 - Follow-up: Slack, GMeet nhat@ready.net

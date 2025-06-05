@@ -1,0 +1,32 @@
+graph TD
+    Start([Start]) --> PRD[Step 1: Generate PRD]
+    PRD --> Clarify{Need clarification?}
+    Clarify -->|Yes| Questions[Ask questions]
+    Questions --> Refine[Refine requirements]
+    Refine --> PRD
+    Clarify -->|No| CompletePRD[Complete PRD document]
+    CompletePRD --> Review1{Review PRD}
+    Review1 -->|Needs work| PRD
+    Review1 -->|Approved| Tasks[Step 2: Generate Task List]
+    Tasks --> Organize[Organize into parent/sub-tasks]
+    Organize --> Review2{Review tasks}
+    Review2 -->|Needs work| Tasks
+    Review2 -->|Approved| Execute[Step 3: Execute Tasks]
+    Execute --> FirstTask[Pick first task]
+    FirstTask --> AI[Use AI assistance]
+    AI --> Complete{Complete?}
+    Complete -->|No| AI
+    Complete -->|Yes| Next{More tasks?}
+    Next -->|Yes| NextTask[Pick next task]
+    NextTask --> AI
+    Next -->|No| Finish([Finish])
+
+    classDef primary fill:#6b46c1,stroke:#333,stroke-width:2px,color:white;
+    classDef secondary fill:#2b6cb0,stroke:#333,stroke-width:2px,color:white;
+    classDef decision fill:#f7fafc,stroke:#333,stroke-width:2px,color:#1a202c;
+    classDef step fill:#e2e8f0,stroke:#333,stroke-width:1px,color:#1a202c;
+    
+    class PRD,Tasks,Execute primary;
+    class Clarify,Review1,Review2,Complete,Next decision;
+    class Questions,Refine,CompletePRD,Organize,FirstTask,AI,NextTask secondary;
+    class Start,Finish step;
