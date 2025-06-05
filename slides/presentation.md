@@ -156,10 +156,9 @@ Providing clear answers resulted in a comprehensive PRD.
 <!-- Instructions to audience: Just ask "Craft a prompt to ____, ask clarification for best prompt" -->
 <img src="./assets/prompt-gen.png" height="200"/>
   
-  - Example: [data-team code-assist (many iterations!)](../prompting/system-prompts/datateam-coding-assistant-sys-prompt-v7.md)
-
 - Prompt folding (iterating on prompts)
-- Examples and escape hatches
+- Give `Examples` and `Escape hatches` (graceful exits, vents)
+- Case-in-point: [data-team code-assist (many iterations!)](../prompting/system-prompts/datateam-coding-assistant-sys-prompt-v7.md)
 
 
 ---
