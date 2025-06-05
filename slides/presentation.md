@@ -6,7 +6,7 @@ paginate: true
 
 <!-- _class: title -->
 
-# 10x Your Productivity with AI Tools
+# Meta-Prompting X Vibe-Coding
 ## A Structured Approach to AI-Assisted Workflows
 
 June 2025
@@ -28,7 +28,7 @@ June 2025
 
 ## Introduction: AI Landscape in 2025
 
-- Overwhelming number of AI tools and daily updates
+- Overwhelming number of AI tools and breakneck updates
 - Cutting through the hype is essential
 - Need for structure in the AI workflow
 - AI as companion/assistant/mentor, not just a tool
@@ -39,7 +39,7 @@ June 2025
 
 ## How I Created This Presentation
 
-This presentation itself demonstrates the workflow I'll be showing you:
+The demo itself:
 
 1. Used a structured 3-step protocol
 2. Applied meta-prompting techniques
@@ -50,9 +50,7 @@ This presentation itself demonstrates the workflow I'll be showing you:
 
 ## The 3-Step AI Workflow Protocol
 
-
-![workflow-setup](./assets/workflow-setup.png)
-
+<img src="./assets/workflow-setup.png" height="400"/>
 
 Source: https://github.com/snarktank/ai-dev-tasks
 
@@ -60,15 +58,7 @@ Source: https://github.com/snarktank/ai-dev-tasks
 
 ## Step 1: Generate PRD
 
-
-![prd-generation](./assets/init-prompt.png)
-
-> Use @create-prd.mdc to create PRD.
-> Refer to background.md which describe the task I want to accomplish and my brainstorming
-
-> I need to prepare a demo 5-8 minutes tomorrow to my SasS telecom B2G company of 50 people, 
-> target audience is non-technical. Walk them through
-how I use AI tools in my daily workflow to 10x productivity!
+<img src="./assets/init-prompt.png" height="350"/>
 
 ---
 
@@ -86,22 +76,17 @@ Providing clear answers resulted in a comprehensive PRD.
 ---
 
 ## Step 1: Review and Revise PRD
-
-![prd-review](./assets/prd-review.png)
-
 - Tip: Use Copilot Edit mode in VSCode
-    ![copilot-edit](./assets/copilot-edit.png)
+<img src="./assets/copilot-edit.png" height="200"/>
 - Carefully review before accepting edits
+<img src="./assets/prd-review.png" height="100"/>
 - Commit changes frequently for version control
-
 
 ---
 
 ## Step 2: PRD to Tasks (Stage-Gate)
 
-![task-generation](./assets/task-generation.png)
-> Now take my PRD in this file and create tasks
-using @generate-tasks.mdc
+<img src="./assets/task-generation.png" height="200"/>
 
 - Convert PRD into actionable tasks
 - Create hierarchy of parent and sub-tasks
@@ -111,7 +96,7 @@ using @generate-tasks.mdc
 
 ## Step 2: Task List Review and Revise
 
-![task-revision](./assets/task-revision.png)
+<img src="./assets/task-revision.png" height="200"/>
 
 - Optimized and structured tasks
 - Included content preparation, visual prep, and slide structure
@@ -121,8 +106,7 @@ using @generate-tasks.mdc
 
 ## Step 3: Execute Tasks Step-by-Step
 
-![task-execution](./assets/task-execution.png)
-> Please start on task 1.1 and use @process-task-list.mdc
+<img src="./assets/task-execution.png" height="200"/>
 
 - Work on one task at a time
 - Use AI to assist with implementation
@@ -132,7 +116,7 @@ using @generate-tasks.mdc
 
 ## Step 3: Task Execution (cont.)
 
-![task-progress](./assets/task-progress.png)
+<img src="./assets/task-progress.png" height="200"/>
 
 - Satisfying list of completed items grows
 - Clear visual of your feature coming to life
@@ -142,7 +126,7 @@ using @generate-tasks.mdc
 
 ## What is Marp?
 
-![marp-help](./assets/marp-help.png)
+<img src="./assets/marp-help.png" height="200"/>
 
 - Markdown-based presentation tool
 - Simple way to create slides from text
@@ -152,9 +136,7 @@ using @generate-tasks.mdc
 
 ## Converting WIP Documentation to Presentation
 
-![presentation-conversion-1](./assets/presentation-conversion-1.png)
-
-![presentation-conversion-2](./assets/presentation-conversion-2.png)
+<img src="./assets/presentation-conversion-1.png" height="300"/>
 
 - Used the history.md tracking document as input
 - AI transformed it into a structured presentation
@@ -167,7 +149,6 @@ using @generate-tasks.mdc
 - System prompt XML structure
 - Prompt folding (iterating on prompts)
 - Examples and escape hatches
-- Evaluation is the crown jewel
 
 ```xml
 <prompt>
