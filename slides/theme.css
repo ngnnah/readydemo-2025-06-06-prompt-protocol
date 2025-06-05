@@ -76,6 +76,53 @@ section::after {
   right: 30px;
 }
 
+/* Table styles */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1em 0;
+  font-size: 0.9em;
+}
+
+th {
+  background-color: var(--readynet-blue);
+  color: white;
+  padding: 0.5em;
+  text-align: left;
+}
+
+td {
+  padding: 0.5em;
+  border-bottom: 1px solid var(--readynet-gray);
+}
+
+tr:nth-child(even) {
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+/* Tool table specific styling */
+.tool-table {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.tool-table table {
+  font-size: 0.85em;
+}
+
+.tool-table th {
+  padding: 0.4em;
+}
+
+.tool-table td {
+  padding: 0.4em;
+  white-space: nowrap;
+}
+
+.tool-table td:nth-child(3) {
+  white-space: normal; /* Allow wrapping for the "Why" column */
+}
+
 /* Title slide */
 section.title {
   display: flex;

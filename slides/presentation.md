@@ -165,14 +165,18 @@ Providing clear answers resulted in a comprehensive PRD.
 
 ## Tool Selection for Specific Tasks
 
+<div class="tool-table">
+
 | Task | Tool | Why |
 | --- | --- | --- |
-| Quick coding tasks | VSCode with Copilot/Edit | Fast iteration, context-aware |
-| Complex context | Google AI Studio | Handles larger context windows |
-| Better prompting | Claude Prompt Writer | Crafts comprehensive prompts |
-| Research synthesis | NotebookLM | Discovers and connects sources |
-| Diagrams | MermaidJS → Lucid Charts | Code to visual diagrams |
-| Repo context | RepoPrompt | Optimizes code context |
+| Quick coding | VSCode Copilot | Fast iteration, context-aware |
+| Complex context | Google AI Studio | Larger context windows |
+| Repo context | RepoPrompt | Optimizes context for AI Studio |
+| Better prompting | Claude Prompt Writer | Crafts better prompts |
+| Research | NotebookLM | Discovers & connects sources |
+| Diagrams | LLM → MermaidJS → Lucid | Code to visual diagrams |
+
+</div>
 
 ---
 
