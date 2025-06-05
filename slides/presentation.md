@@ -179,6 +179,22 @@ Providing clear answers resulted in a comprehensive PRD.
 </div>
 
 ---
+## Context is Key: Smart INPUT via RepoPrompt →
+
+<img src="./assets/context-select/prompt-repo.png" height="350"/>
+
+---
+## King of Context: Go Big with AI Studio →
+
+<img src="./assets/context-select/ai-studio-context.png" height="350"/>
+
+
+---
+## Context is Knowledge: Auto-gen OUTPUT; Build Our Knowledge Base!
+<img src="./assets/context-select/docu-readme.png" height="350"/>
+
+---
+
 
 ## Real-World Applications
 
