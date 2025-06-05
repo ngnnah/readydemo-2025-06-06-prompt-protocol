@@ -50,7 +50,9 @@ This presentation itself demonstrates the workflow I'll be showing you:
 
 ## The 3-Step AI Workflow Protocol
 
+
 ![workflow-setup](./assets/workflow-setup.png)
+
 
 Source: https://github.com/snarktank/ai-dev-tasks
 
@@ -58,9 +60,11 @@ Source: https://github.com/snarktank/ai-dev-tasks
 
 ## Step 1: Generate PRD
 
+
 ![prd-generation](./assets/init-prompt.png)
+
 > Use @create-prd.mdc to create PRD.
-> The file background.md describe the task I want to accomplish and my brainstorming
+> Refer to background.md which describe the task I want to accomplish and my brainstorming
 
 > I need to prepare a demo 5-8 minutes tomorrow to my SasS telecom B2G company of 50 people, 
 > target audience is non-technical. Walk them through
@@ -86,10 +90,10 @@ Providing clear answers resulted in a comprehensive PRD.
 ![prd-review](./assets/prd-review.png)
 
 - Tip: Use Copilot Edit mode in VSCode
+    ![copilot-edit](./assets/copilot-edit.png)
 - Carefully review before accepting edits
 - Commit changes frequently for version control
 
-![copilot-edit](./assets/copilot-edit.png)
 
 ---
 
@@ -238,16 +242,4 @@ All following the same structured 3-step protocol
 
 <!-- _class: title -->
 
-# Q&A
-
-Scan for resources:
-[QR code will be placed here]
-
----
-
-<!-- _class: title -->
-
-# Thank You!
-
-Resources: https://github.com/snarktank/ai-dev-tasks
-Contact: [Your contact information]
+# Q&A +++ nhat@ready.net +++Thank You!
