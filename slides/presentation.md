@@ -156,7 +156,9 @@ Work through the list, one task at a time, with AI assistance.
 
 ## ✨ Meta-Prompting Techniques
 
-Let AI help you talk to AI more effectively!
+> [Guillermo Rauch](https://youtu.be/2YAyEXrkJzg) of Vercel: "I've been an engineer for ... a couple decades now and I no longer write code. I only prompt"
+
+Let AI help you talk to AI more effectively:
 
 - **System Prompts (XML):** Define AI's role & rules.
   <!-- Note for Task 2.3.1: Reference to Claude project "prompt-generator" -->
