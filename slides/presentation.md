@@ -73,14 +73,12 @@ Starting with a clear goal, AI helps define the "what" and "why".
 
 ## Step 1.1: 🗣️ AI Asks Clarifying Questions
 
-Before writing, the AI *must* ask questions to gather details:
+Clear context for the AI lead to a better PRD:
 
 - Key AI tools to feature?
 - Productivity gains to highlight?
 - Specific tasks to demonstrate?
 - Presentation structure?
-
-Clear answers lead to a better PRD.
 
 ---
 
@@ -258,7 +256,6 @@ Invest in your AI skills - the company supports you!
 4.  **Context Quality:** "You get out what you put in."
 5.  **AI Mindset:** Companion, assistant, mentor – not just a tool.
 6.  **Command the Magic:** AI is like a magic system - master the language of prompts.
-7.  **Join Now:** The AI revolution is accelerating - better to ride the wave than be left behind.
 
 ---
 
