@@ -1,14 +1,12 @@
-# AI-Assisted Workflow & Prompting Protocol Demo
+# AI Tools Workflow Demo
 
-## Overview
+This repository contains the materials for a demonstration of AI tools and workflows created on June 6, 2025. The presentation showcases a structured approach to using AI tools to 10x productivity.
 
-This repository contains materials for a demonstration of AI tools and workflows, created around June 6, 2025. It showcases a structured approach to leveraging AI for enhanced productivity in development and content creation, effectively demonstrating how to "10x productivity."
+## What's Inside
 
-This project serves as both documentation of an AI-assisted workflow and is itself a product of that process. It's a "meta" example: using AI to create a presentation (found in `/slides`) about AI workflows and prompting protocols. The core idea is to illustrate a methodical way to integrate AI into daily tasks.
+This repository serves as both documentation of the AI workflow process and the product of that process. It demonstrates the "meta" example of using AI to create a presentation about AI workflows.
 
-## Project Structure
-
-The repository is organized as follows:
+### Repository Structure
 
 ```
 /

@@ -32,6 +32,7 @@ June 2025
 - 🧭 Essential to cut through the hype.
 - 🧱 Need for a structured AI workflow.
 - 🤝 AI as companion/assistant/mentor, not just a tool.
+- ✨ **AI is akin to magic:** Output quality depends on your command of the "spell language" (prompts) and imagination.
 
 > "Garbage In, Garbage Out... Quality In, Quality Out!"
 
@@ -175,15 +176,15 @@ Let AI help you talk to AI more effectively:
 
 <div class="tool-table">
 
-| Task                 | Tool                 | Why                                  |
-| -------------------- | -------------------- | ------------------------------------ |
-| ⚡ Coding      | VSCode Copilot       | Fast iteration, context-aware        |
-| 🧠 Complex   | Google AI Studio     | Larger context windows, system prompt               |
-| 📂 Context      | RepoPrompt           | Optimizes context for AI Studio    |
-| ✍️ 1Prompt  | Claude | prompt-generator crafts superior prompts              |
-| 🔎 Learn   | NotebookLM           | Discovers & connects sources         |
-| 📊 Diagrams          | LLM → charts | Code to visual Lucid charts              |
-| 📖 Docs | AI Studio 🔄 RepoPrompt | Vigorous intput-output cycle: Context matters most! |
+| Task       | Tool                   | Why                                                 |
+| ---------- | ---------------------- | --------------------------------------------------- |
+| ⚡ Coding   | VSCode Copilot         | Fast iteration, context-aware                       |
+| 🧠 Complex  | Google AI Studio       | Larger context windows, system prompt               |
+| 📂 Context  | RepoPrompt             | Optimizes context for AI Studio                     |
+| ✍️ 1Prompt  | Claude                 | prompt-generator crafts superior prompts            |
+| 🔎 Learn    | NotebookLM             | Discovers & connects sources                        |
+| 📊 Diagrams | LLM → charts           | Code to visual Lucid charts                         |
+| 📖 Docs     | AI Studio 🔄 RepoPrompt | Vigorous intput-output cycle: Context matters most! |
 </div>
 
 ---
@@ -256,6 +257,8 @@ Invest in your AI skills - the company supports you!
 3.  **Tool Choice:** Increases efficiency when matched to the task.
 4.  **Context Quality:** "You get out what you put in."
 5.  **AI Mindset:** Companion, assistant, mentor – not just a tool.
+6.  **Command the Magic:** AI is like a magic system - master the language of prompts.
+7.  **Join Now:** The AI revolution is accelerating - better to ride the wave than be left behind.
 
 ---
 
