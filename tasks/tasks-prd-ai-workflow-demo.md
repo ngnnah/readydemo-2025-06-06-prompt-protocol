@@ -97,6 +97,7 @@
   - [x] 5.1 Assemble all slides in presentation.md
   - [x] 5.2 Review and edit for clarity and timing
   - [x] 5.3 Ensure all visual assets are properly linked
+  - [x] 5.7 prepare presentation script
   - [ ] 5.4 Test presentation in Slack huddle environment
   - [ ] 5.5 Practice delivery to stay within 5-8 minute window
   - [x] 5.6 Prepare contingency plan for technical issues
