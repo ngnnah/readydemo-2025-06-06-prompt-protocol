@@ -212,8 +212,8 @@ Let AI help you talk to AI more effectively:
 - 🎤 **This Presentation:** A meta-example of the workflow.
 - ☁️ **Data Workflow/Calix Cloud:** From specs to diagrams to code.
 - 📖 **Documentation:** AI-assisted guides with visuals.
-- 🎨 **Image Generation (Gemini Canvas):** [Example Link](https://gemini.google.com/u/4/share/cb9103ca67d1)
-    <img src="./assets/image-gen.png" height="280"/>
+<!-- - 🎨 **Image Generation (Gemini Canvas):** [Example Link](https://gemini.google.com/u/4/share/cb9103ca67d1) -->
+  - <img src="./assets/image-gen.png" height="280"/>
 
 *All following the same structured 3-step protocol.*
 
